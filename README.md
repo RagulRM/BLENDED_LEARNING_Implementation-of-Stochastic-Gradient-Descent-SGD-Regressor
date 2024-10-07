@@ -20,7 +20,7 @@ To write a program to implement Stochastic Gradient Descent (SGD) Regressor for 
 9. Make predictions and visualize the results.
 
 ## Program:
-```pyhton
+```python
 
 # Program to implement SGD Regressor for linear regression.
 # Developed by: Hanshika Varthini R
